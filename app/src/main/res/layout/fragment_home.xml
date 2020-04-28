@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#252525"
+    >
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <HorizontalScrollView
+                android:id="@+id/horizontalScrollView"
+                android:layout_width="match_parent"
+                android:layout_height="103dp">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="#252525"
+                    android:baselineAligned="false"
+                    android:orientation="horizontal"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingLeft="7dp"
+                        android:paddingRight="7dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="65dp"
+                            android:layout_height="65dp"
+                            android:layout_weight="1"
+                            android:cropToPadding="true"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/user_128px" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Багдан"
+                            android:textAlignment="center"
+                            android:textColor="@android:color/white"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingLeft="7dp"
+                        android:paddingRight="7dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="65dp"
+                            android:layout_height="65dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/border_image"
+                            android:cropToPadding="true"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/profile12"
+                            app:civ_border_color="#252525"
+                            app:civ_border_width="2dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Astellia"
+                            android:textAlignment="center"
+                            android:textColor="#428df5"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingLeft="7dp"
+                        android:paddingRight="7dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="65dp"
+                            android:layout_height="65dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/border_image"
+                            android:cropToPadding="true"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/profile13"
+                            app:civ_border_color="#252525"
+                            app:civ_border_width="2dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Elation"
+                            android:textAlignment="center"
+                            android:textColor="#428df5"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingLeft="7dp"
+                        android:paddingRight="7dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="65dp"
+                            android:layout_height="65dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/border_image"
+                            android:cropToPadding="true"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/profile14"
+                            app:civ_border_color="#252525"
+                            app:civ_border_width="2dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="E L E G.."
+                            android:textAlignment="center"
+                            android:textColor="#428df5"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingLeft="7dp"
+                        android:paddingRight="7dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="65dp"
+                            android:layout_height="65dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/border_image"
+                            android:cropToPadding="true"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/profile15"
+                            app:civ_border_color="#252525"
+                            app:civ_border_width="2dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="ЗЛОЙ Н.."
+                            android:textAlignment="center"
+                            android:textColor="#428df5"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingLeft="7dp"
+                        android:paddingRight="7dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="65dp"
+                            android:layout_height="65dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/border_image"
+                            android:cropToPadding="true"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/profile16"
+                            app:civ_border_color="#252525"
+                            app:civ_border_width="2dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="The Gen.."
+                            android:textAlignment="center"
+                            android:textColor="#428df5"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingLeft="7dp"
+                        android:paddingRight="7dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="65dp"
+                            android:layout_height="65dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/border_image"
+                            android:cropToPadding="true"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/profile17"
+                            app:civ_border_color="#252525"
+                            app:civ_border_width="2dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="Дети Улиц"
+                            android:textAlignment="center"
+                            android:textColor="#428df5"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingLeft="7dp"
+                        android:paddingRight="7dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="65dp"
+                            android:layout_height="65dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/border_image"
+                            android:cropToPadding="true"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/profile15"
+                            app:civ_border_color="#252525"
+                            app:civ_border_width="2dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="stories"
+                            android:textAlignment="center"
+                            android:textColor="#428df5"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical"
+                        android:paddingLeft="7dp"
+                        android:paddingRight="7dp">
+
+                        <de.hdodenhof.circleimageview.CircleImageView
+                            android:layout_width="65dp"
+                            android:layout_height="65dp"
+                            android:layout_weight="1"
+                            android:background="@drawable/border_image"
+                            android:cropToPadding="true"
+                            android:scaleType="centerCrop"
+                            android:src="@drawable/profile12"
+                            app:civ_border_color="#252525"
+                            app:civ_border_width="2dp" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="stories"
+                            android:textAlignment="center"
+                            android:textColor="#428df5"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+            </HorizontalScrollView>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recycle_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1">
+
+            </androidx.recyclerview.widget.RecyclerView>
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+
+</LinearLayout>
