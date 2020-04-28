@@ -128,65 +128,65 @@ public class MainActivity extends AppCompatActivity {
 
         ClearAllData();
 
-        avatars.add("https://images.pexels.com/photos/257360/pexels-photo-257360.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
-        names.add("Profile1");
-        images.add("https://rabbitsauthority.com/wp-content/uploads/2019/10/Natural-Ways-to-Get-Rid-of-Rabbits-in-the-Garden.jpg");
-        descriptions.add("description1");
+        avatars.add("https://lh4.googleusercontent.com/proxy/Adcgt_KoWBO_hG2Ab16HvMSAHiZ9fAFFGv-ikLU6jPfPnxst2yVgKPCnyWCi13OWea9gZ5M0XYdO46iC9dftdNi8aAl-GUnI42Ysc_0DMWU");
+        names.add("Good life inc");
+        images.add("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQciI3q9T5j9BXd0gTJ6c3BZkhVWHQY9eFcupbg1e2fWetI0jQm&usqp=CAU");
+        descriptions.add(" ");
         liked.add(false);
 
-        avatars.add("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMIzuU4_yi6VFSkaB4HKgjAvlaFI829syDNo7cX0A--gOXtiDv");
-        names.add("Profile2");
-        images.add("https://physicsworld.com/wp-content/uploads/2019/08/unique-climate-change-800x533.jpg");
-        descriptions.add("description2");
+        avatars.add("https://sun9-68.userapi.com/c837430/v837430209/3a2e2/jQTKdB5nWds.jpg");
+        names.add("SPORT & FITNESS");
+        images.add("https://sun2.dataix-kz-akkol.userapi.com/c857120/v857120216/16ac60/M77uLj4yMxU.jpg");
+        descriptions.add("Уилл Смит даже в свои 50 - топ \uD83D\uDCAA\uD83C\uDFFB Держит свое тело в хорошей форме!");
         liked.add(false);
 
-        avatars.add("https://image.winudf.com/v2/image/Y29tLmdhbGxvc3R1ZGlvcy5idXR0ZXJmbHl3YWxscGFwZXJfc2NyZWVuXzZfMTUxNzY3MTQ0Ml8wODk/screen-6.jpg?fakeurl=1&type=.jpg");
-        names.add("Profile3");
-        images.add("https://www.pandotrip.com/wp-content/uploads/2018/09/Seigantoji-Pagoda-and-Nachi-Falls-in-Nacho-Japan.jpg");
-        descriptions.add("description3");
+        avatars.add("https://astellia595964941.files.wordpress.com/2019/10/assassin_icon.png?w=1024");
+        names.add("Astellia");
+        images.add("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQaJMpy5kFjgF0ImHr6Vw-ktGba3ePBGdpSWKwMOQFMW14v52JK&usqp=CAU");
+        descriptions.add("Сколько у вас астелов ?" +
+                "Какой астел по вашему самый сильный?");
         liked.add(false);
 
-        avatars.add("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToho9UkmEZgSNFVcU-0vr23cNi5gdjzS16fYBn8HTbjkK-WxCj");
-        names.add("Profile4");
-        images.add("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR42tkvGLQZ0Uklh5rT_zI6NnEiutbL3smyh2MJ1IjTwdCBjgwq");
-        descriptions.add("description4");
+        avatars.add("https://sun9-35.userapi.com/c824203/v824203220/17e7d7/K2FvORqT7_E.jpg?ava=1");
+        names.add("Душа Пацана");
+        images.add("https://scontent-atl3-1.cdninstagram.com/v/t51.2885-15/e35/29715844_466461680438733_8318886172386394112_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=qTIqCs1AQfYAX9TS1V7&oh=4a6e3a5698bdceee7017529aaa3a131e&oe=5EBDD09E");
+        descriptions.add("");
         liked.add(false);
 
-        avatars.add("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6rF2jBfUZFhnjwZw2sF0i95mygUpmJ6v2KKr7Zetx_9UNF6Kn");
-        names.add("Profile5");
-        images.add("https://www.pandotrip.com/wp-content/uploads/2018/09/Yakushima-Island-UNESCO-World-Heritage-Site-in-Japan.jpg");
-        descriptions.add("description5");
+        avatars.add("https://sun9-56.userapi.com/c847020/v847020673/1c60ff/6Tr_gvLabOk.jpg");
+        names.add("Elation");
+        images.add("https://sun9-28.userapi.com/c857228/v857228940/178244/73zVaFtyVmE.jpg");
+        descriptions.add("");
         liked.add(false);
 
-        avatars.add("https://images.pexels.com/photos/257360/pexels-photo-257360.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
-        names.add("Profile6");
-        images.add("https://rabbitsauthority.com/wp-content/uploads/2019/10/Natural-Ways-to-Get-Rid-of-Rabbits-in-the-Garden.jpg");
-        descriptions.add("description6");
+        avatars.add("https://sun9-51.userapi.com/miixNPgPpCL5OAxDzh3zp_HFSzhzkP4px0oi6Q/027tGG393V8.jpg?ava=1");
+        names.add("ЗЛОЙ НЕГР");
+        images.add("https://lastmag.ru/wp-content/uploads/2019/05/bran-1.jpg");
+        descriptions.add(" ");
         liked.add(false);
 
-        avatars.add("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMIzuU4_yi6VFSkaB4HKgjAvlaFI829syDNo7cX0A--gOXtiDv");
-        names.add("Profile7");
-        images.add("https://physicsworld.com/wp-content/uploads/2019/08/unique-climate-change-800x533.jpg");
-        descriptions.add("description7");
+        avatars.add("https://sun9-66.userapi.com/c855228/v855228498/1a4656/nS7ihS-kZpo.jpg");
+        names.add("E L E G A N T");
+        images.add("https://sun1.dataix-kz-akkol.userapi.com/c635105/v635105578/205a0/kcslbQW4OXE.jpg");
+        descriptions.add("");
         liked.add(false);
 
-        avatars.add("https://image.winudf.com/v2/image/Y29tLmdhbGxvc3R1ZGlvcy5idXR0ZXJmbHl3YWxscGFwZXJfc2NyZWVuXzZfMTUxNzY3MTQ0Ml8wODk/screen-6.jpg?fakeurl=1&type=.jpg");
-        names.add("Profile8");
-        images.add("https://www.pandotrip.com/wp-content/uploads/2018/09/Seigantoji-Pagoda-and-Nachi-Falls-in-Nacho-Japan.jpg");
-        descriptions.add("description8");
-
+        avatars.add("https://sun9-40.userapi.com/c617928/v617928644/bc3f/myEKiulbEEg.jpg");
+        names.add("UFC");
+        images.add("https://sun2.dataix-kz-akkol.userapi.com/sWSmOtnI0EgU-YItyxnt5vEwFFt4avI5Dtt4iw/JrySXFatpFI.jpg");
+        descriptions.add("");
         liked.add(false);
 
-        avatars.add("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToho9UkmEZgSNFVcU-0vr23cNi5gdjzS16fYBn8HTbjkK-WxCj");
-        names.add("Profile9");
-        images.add("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR42tkvGLQZ0Uklh5rT_zI6NnEiutbL3smyh2MJ1IjTwdCBjgwq");
-        descriptions.add("description9");
+        avatars.add("https://sun9-26.userapi.com/c849536/v849536351/179124/houEASyBIPw.jpg");
+        names.add("C H I C A G O");
+        images.add("https://sun2.dataix-kz-akkol.userapi.com/c857328/v857328400/17e0e1/WwlFTXqbdns.jpg");
+        descriptions.add("\uD83D\uDC4F\uD83C\uDFFB\uD83D\uDC4F\uD83C\uDFFB\uD83D\uDC4F\uD83C\uDFFB");
         liked.add(false);
 
-        avatars.add("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6rF2jBfUZFhnjwZw2sF0i95mygUpmJ6v2KKr7Zetx_9UNF6Kn");
-        names.add("Profile10");
-        images.add("https://www.pandotrip.com/wp-content/uploads/2018/09/Yakushima-Island-UNESCO-World-Heritage-Site-in-Japan.jpg");
-        descriptions.add("description10");
+        avatars.add("https://lh4.googleusercontent.com/proxy/Adcgt_KoWBO_hG2Ab16HvMSAHiZ9fAFFGv-ikLU6jPfPnxst2yVgKPCnyWCi13OWea9gZ5M0XYdO46iC9dftdNi8aAl-GUnI42Ysc_0DMWU");
+        names.add("Good life inc");
+        images.add("https://pp.vk.me/c636224/v636224690/15fdb/_yaAUvW3UD0.jpg");
+        descriptions.add("");
         liked.add(false);
     }
 }
